@@ -1,0 +1,289 @@
+2023-07-04 13:31:51,437 :INFO : test_e2e :getting all the card titles
+2023-07-04 13:31:51,458 :INFO : test_e2e :iphone X
+2023-07-04 13:31:51,465 :INFO : test_e2e :Samsung Note 8
+2023-07-04 13:31:51,471 :INFO : test_e2e :Nokia Edge
+2023-07-04 13:31:51,479 :INFO : test_e2e :Blackberry
+2023-07-04 13:31:56,659 :INFO : test_e2e :Entering country name as ind
+2023-07-04 13:37:13,511 :INFO : test_e2e :getting all the card titles
+2023-07-04 13:37:13,537 :INFO : test_e2e :iphone X
+2023-07-04 13:37:13,545 :INFO : test_e2e :Samsung Note 8
+2023-07-04 13:37:13,552 :INFO : test_e2e :Nokia Edge
+2023-07-04 13:37:13,559 :INFO : test_e2e :Blackberry
+2023-07-04 13:37:51,682 :INFO : test_e2e :getting all the card titles
+2023-07-04 13:37:51,704 :INFO : test_e2e :iphone X
+2023-07-04 13:37:51,711 :INFO : test_e2e :Samsung Note 8
+2023-07-04 13:37:51,717 :INFO : test_e2e :Nokia Edge
+2023-07-04 13:37:51,723 :INFO : test_e2e :Blackberry
+2023-07-04 13:38:18,299 :INFO : test_e2e :getting all the card titles
+2023-07-04 13:38:18,319 :INFO : test_e2e :iphone X
+2023-07-04 13:38:18,325 :INFO : test_e2e :Samsung Note 8
+2023-07-04 13:38:18,331 :INFO : test_e2e :Nokia Edge
+2023-07-04 13:38:18,337 :INFO : test_e2e :Blackberry
+2023-07-04 13:40:09,368 :INFO : test_e2e :getting all the card titles
+2023-07-04 13:40:09,391 :INFO : test_e2e :iphone X
+2023-07-04 13:40:09,397 :INFO : test_e2e :Samsung Note 8
+2023-07-04 13:40:09,402 :INFO : test_e2e :Nokia Edge
+2023-07-04 13:40:09,407 :INFO : test_e2e :Blackberry
+2023-07-04 16:27:12,092 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:27:12,119 :INFO : test_e2e :iphone X
+2023-07-04 16:27:12,126 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:27:12,132 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:27:12,138 :INFO : test_e2e :Blackberry
+2023-07-04 16:31:10,426 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:31:10,448 :INFO : test_e2e :iphone X
+2023-07-04 16:31:10,456 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:31:10,462 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:31:10,468 :INFO : test_e2e :Blackberry
+2023-07-04 16:31:38,721 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:31:38,741 :INFO : test_e2e :iphone X
+2023-07-04 16:31:38,747 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:31:38,752 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:31:38,757 :INFO : test_e2e :Blackberry
+2023-07-04 16:36:44,121 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:36:44,143 :INFO : test_e2e :iphone X
+2023-07-04 16:36:44,149 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:36:44,155 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:36:44,160 :INFO : test_e2e :Blackberry
+2023-07-04 16:42:20,406 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:42:20,428 :INFO : test_e2e :iphone X
+2023-07-04 16:42:20,434 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:42:20,441 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:42:20,449 :INFO : test_e2e :Blackberry
+2023-07-04 16:55:16,320 :INFO : test_e2e :getting all the card titles
+2023-07-04 16:55:16,353 :INFO : test_e2e :iphone X
+2023-07-04 16:55:16,361 :INFO : test_e2e :Samsung Note 8
+2023-07-04 16:55:16,371 :INFO : test_e2e :Nokia Edge
+2023-07-04 16:55:16,379 :INFO : test_e2e :Blackberry
+2024-10-03 23:54:58,858 :INFO : test_e2e :Getting all the card titles
+2024-10-03 23:54:58,896 :INFO : test_e2e :iphone X
+2024-10-03 23:54:58,907 :INFO : test_e2e :Samsung Note 8
+2024-10-03 23:54:58,914 :INFO : test_e2e :Nokia Edge
+2024-10-03 23:54:58,919 :INFO : test_e2e :Blackberry
+2024-10-03 23:55:20,840 :INFO : test_e2e :Getting all the card titles
+2024-10-03 23:55:20,881 :INFO : test_e2e :iphone X
+2024-10-03 23:55:20,893 :INFO : test_e2e :Samsung Note 8
+2024-10-03 23:55:20,903 :INFO : test_e2e :Nokia Edge
+2024-10-03 23:55:20,919 :INFO : test_e2e :Blackberry
+2024-10-03 23:58:12,961 :INFO : test_e2e :Getting all the card titles
+2024-10-03 23:58:13,010 :INFO : test_e2e :iphone X
+2024-10-03 23:58:13,020 :INFO : test_e2e :Samsung Note 8
+2024-10-03 23:58:13,028 :INFO : test_e2e :Nokia Edge
+2024-10-03 23:58:13,034 :INFO : test_e2e :Blackberry
+2024-10-03 23:59:04,276 :INFO : test_e2e :Getting all the card titles
+2024-10-03 23:59:04,311 :INFO : test_e2e :iphone X
+2024-10-03 23:59:04,320 :INFO : test_e2e :Samsung Note 8
+2024-10-03 23:59:04,328 :INFO : test_e2e :Nokia Edge
+2024-10-03 23:59:04,337 :INFO : test_e2e :Blackberry
+2024-10-04 00:09:24,510 :INFO : test_e2e :Getting all the card titles
+2024-10-04 00:09:24,566 :INFO : test_e2e :iphone X
+2024-10-04 00:09:24,578 :INFO : test_e2e :Samsung Note 8
+2024-10-04 00:09:24,586 :INFO : test_e2e :Nokia Edge
+2024-10-04 00:09:24,594 :INFO : test_e2e :Blackberry
+2024-10-04 00:09:57,006 :INFO : test_e2e :Getting all the card titles
+2024-10-04 00:09:57,043 :INFO : test_e2e :iphone X
+2024-10-04 00:09:57,054 :INFO : test_e2e :Samsung Note 8
+2024-10-04 00:09:57,061 :INFO : test_e2e :Nokia Edge
+2024-10-04 00:09:57,066 :INFO : test_e2e :Blackberry
+2024-10-04 00:46:34,585 :INFO : test_e2e :Getting all the card titles
+2024-10-04 00:46:34,629 :INFO : test_e2e :iphone X
+2024-10-04 00:46:34,642 :INFO : test_e2e :Samsung Note 8
+2024-10-04 00:46:34,652 :INFO : test_e2e :Nokia Edge
+2024-10-04 00:46:34,662 :INFO : test_e2e :Blackberry
+2024-10-04 00:47:53,099 :INFO : test_e2e :Getting all the card titles
+2024-10-04 00:48:47,356 :INFO : test_e2e :Getting all the card titles
+2024-10-04 00:48:47,393 :INFO : test_e2e :iphone X
+2024-10-04 00:48:47,404 :INFO : test_e2e :Samsung Note 8
+2024-10-04 00:48:47,412 :INFO : test_e2e :Nokia Edge
+2024-10-04 00:48:47,419 :INFO : test_e2e :Blackberry
+2024-10-06 19:28:19,882 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:28:19,916 :INFO : test_e2e :iphone X
+2024-10-06 19:28:19,926 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:28:19,935 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:28:19,944 :INFO : test_e2e :Blackberry
+2024-10-06 19:28:39,546 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:28:39,581 :INFO : test_e2e :iphone X
+2024-10-06 19:28:39,594 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:28:39,605 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:28:39,613 :INFO : test_e2e :Blackberry
+2024-10-06 19:33:34,971 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:33:35,003 :INFO : test_e2e :iphone X
+2024-10-06 19:33:35,012 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:33:35,022 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:33:35,035 :INFO : test_e2e :Blackberry
+2024-10-06 19:43:01,563 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:43:01,599 :INFO : test_e2e :iphone X
+2024-10-06 19:43:01,610 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:43:01,619 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:43:01,628 :INFO : test_e2e :Blackberry
+2024-10-06 19:48:20,879 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:48:20,922 :INFO : test_e2e :iphone X
+2024-10-06 19:48:20,934 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:48:20,947 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:48:20,961 :INFO : test_e2e :Blackberry
+2024-10-06 19:51:01,123 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:51:01,159 :INFO : test_e2e :iphone X
+2024-10-06 19:51:01,173 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:51:01,187 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:51:01,200 :INFO : test_e2e :Blackberry
+2024-10-06 19:51:01,405 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 19:52:14,759 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:52:14,785 :INFO : test_e2e :iphone X
+2024-10-06 19:52:14,796 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:52:14,806 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:52:14,817 :INFO : test_e2e :Blackberry
+2024-10-06 19:52:15,032 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 19:52:20,339 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-06 19:53:36,468 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:53:36,498 :INFO : test_e2e :iphone X
+2024-10-06 19:53:36,505 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:53:36,520 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:53:36,532 :INFO : test_e2e :Blackberry
+2024-10-06 19:53:36,743 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 19:53:42,001 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-06 19:54:09,622 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:54:09,658 :INFO : test_e2e :iphone X
+2024-10-06 19:54:09,669 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:54:09,677 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:54:09,687 :INFO : test_e2e :Blackberry
+2024-10-06 19:54:09,890 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 19:54:15,213 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-06 19:54:30,366 :INFO : test_e2e :Getting all the card titles
+2024-10-06 19:54:30,397 :INFO : test_e2e :iphone X
+2024-10-06 19:54:30,406 :INFO : test_e2e :Samsung Note 8
+2024-10-06 19:54:30,414 :INFO : test_e2e :Nokia Edge
+2024-10-06 19:54:30,422 :INFO : test_e2e :Blackberry
+2024-10-06 19:54:30,655 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 19:54:35,967 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-06 21:39:30,259 :INFO : test_e2e :Getting all the card titles
+2024-10-06 21:39:30,283 :INFO : test_e2e :iphone X
+2024-10-06 21:39:30,291 :INFO : test_e2e :Samsung Note 8
+2024-10-06 21:39:30,299 :INFO : test_e2e :Nokia Edge
+2024-10-06 21:39:30,308 :INFO : test_e2e :Blackberry
+2024-10-06 21:39:30,517 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-06 21:39:35,796 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:36:20,121 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:36:20,164 :INFO : test_e2e :iphone X
+2024-10-07 00:36:20,178 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:36:20,193 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:36:20,206 :INFO : test_e2e :Blackberry
+2024-10-07 00:36:20,489 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:36:25,974 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:36:57,633 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:36:57,697 :INFO : test_e2e :iphone X
+2024-10-07 00:36:57,726 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:36:57,750 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:36:57,775 :INFO : test_e2e :Blackberry
+2024-10-07 00:36:58,239 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:37:03,724 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:37:32,362 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:37:32,437 :INFO : test_e2e :iphone X
+2024-10-07 00:37:32,462 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:37:32,499 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:37:32,529 :INFO : test_e2e :Blackberry
+2024-10-07 00:37:33,005 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:37:38,784 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:39:21,212 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:39:21,502 :INFO : test_e2e :iphone X
+2024-10-07 00:39:21,544 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:39:21,611 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:39:21,668 :INFO : test_e2e :Blackberry
+2024-10-07 00:39:22,952 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:39:29,804 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:42:48,195 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:42:48,276 :INFO : test_e2e :iphone X
+2024-10-07 00:42:48,318 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:42:48,359 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:42:48,407 :INFO : test_e2e :Blackberry
+2024-10-07 00:42:48,795 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:42:54,231 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:49:00,365 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:49:00,419 :INFO : test_e2e :iphone X
+2024-10-07 00:49:00,441 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:49:00,453 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:49:00,469 :INFO : test_e2e :Blackberry
+2024-10-07 00:49:00,772 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:49:06,232 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 00:49:53,038 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:49:53,098 :INFO : test_e2e :iphone X
+2024-10-07 00:49:53,122 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:49:53,145 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:49:53,171 :INFO : test_e2e :Blackberry
+2024-10-07 00:49:53,484 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 00:50:53,111 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:51:15,958 :INFO : test_e2e :iphone X
+2024-10-07 00:51:22,739 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:51:35,117 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:51:40,836 :INFO : test_e2e :Blackberry
+2024-10-07 00:53:15,617 :INFO : test_e2e :Getting all the card titles
+2024-10-07 00:53:16,584 :INFO : test_e2e :iphone X
+2024-10-07 00:53:17,659 :INFO : test_e2e :Samsung Note 8
+2024-10-07 00:53:18,815 :INFO : test_e2e :Nokia Edge
+2024-10-07 00:53:19,250 :INFO : test_e2e :Blackberry
+2024-10-07 00:53:27,320 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:01:56,352 :INFO : test_e2e :Getting all the card titles
+2024-10-07 01:01:56,412 :INFO : test_e2e :iphone X
+2024-10-07 01:01:56,447 :INFO : test_e2e :Samsung Note 8
+2024-10-07 01:01:56,471 :INFO : test_e2e :Nokia Edge
+2024-10-07 01:01:56,483 :INFO : test_e2e :Blackberry
+2024-10-07 01:01:57,002 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:02:02,680 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 01:02:35,345 :INFO : test_e2e :Getting all the card titles
+2024-10-07 01:02:35,393 :INFO : test_e2e :iphone X
+2024-10-07 01:02:35,411 :INFO : test_e2e :Samsung Note 8
+2024-10-07 01:02:35,428 :INFO : test_e2e :Nokia Edge
+2024-10-07 01:02:35,450 :INFO : test_e2e :Blackberry
+2024-10-07 01:02:35,773 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:02:41,155 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 01:04:38,530 :INFO : test_e2e :Getting all the card titles
+2024-10-07 01:04:38,595 :INFO : test_e2e :iphone X
+2024-10-07 01:04:38,621 :INFO : test_e2e :Samsung Note 8
+2024-10-07 01:04:38,641 :INFO : test_e2e :Nokia Edge
+2024-10-07 01:04:38,660 :INFO : test_e2e :Blackberry
+2024-10-07 01:04:38,905 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:04:44,330 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 01:07:15,046 :INFO : test_e2e :Getting all the card titles
+2024-10-07 01:07:15,096 :INFO : test_e2e :iphone X
+2024-10-07 01:07:15,113 :INFO : test_e2e :Samsung Note 8
+2024-10-07 01:07:15,131 :INFO : test_e2e :Nokia Edge
+2024-10-07 01:07:15,147 :INFO : test_e2e :Blackberry
+2024-10-07 01:07:15,445 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:07:20,870 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-07 01:07:30,737 :INFO : test_e2e :Getting all the card titles
+2024-10-07 01:07:30,793 :INFO : test_e2e :iphone X
+2024-10-07 01:07:30,809 :INFO : test_e2e :Samsung Note 8
+2024-10-07 01:07:30,822 :INFO : test_e2e :Nokia Edge
+2024-10-07 01:07:30,835 :INFO : test_e2e :Blackberry
+2024-10-07 01:07:31,108 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-07 01:07:36,491 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-08 03:08:50,883 :INFO : test_e2e :Getting all the card titles
+2024-10-08 03:08:50,935 :INFO : test_e2e :iphone X
+2024-10-08 03:08:50,950 :INFO : test_e2e :Samsung Note 8
+2024-10-08 03:08:50,961 :INFO : test_e2e :Nokia Edge
+2024-10-08 03:08:50,972 :INFO : test_e2e :Blackberry
+2024-10-08 03:08:51,235 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-08 03:08:56,711 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-10-18 00:05:37,231 :INFO : test_e2e :Getting all the card titles
+2024-10-18 00:05:37,320 :INFO : test_e2e :iphone X
+2024-10-18 00:05:37,339 :INFO : test_e2e :Samsung Note 8
+2024-10-18 00:05:37,367 :INFO : test_e2e :Nokia Edge
+2024-10-18 00:05:37,377 :INFO : test_e2e :Blackberry
+2024-10-18 00:05:37,692 :INFO : test_e2e :Entering country name as 'ind'
+2024-10-18 00:05:43,131 :INFO : test_e2e :Text received from application is ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
